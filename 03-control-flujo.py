@@ -6,9 +6,12 @@
 
 
 #! CONDICIONALES O SENTENCIAS CONDICIONALES.
-# IF => SI...-----------------------------El código se ejecuta unicamente, si se cumple la condición de entrada.
-# ELIF => PERO SI....---------------------Permite generar un camino alternativo con una condición de entrada.
-# ELSE => Y SI NO SE CUMPLE...------------Se ejecutará siempre que NO se hayan cumplido las anteriores condiciones (if y elif).
+#? IF => SI...-----------------------------
+# El código se ejecuta unicamente, si se cumple la condición de entrada.
+#? ELIF => PERO SI....---------------------
+# Permite generar un camino alternativo con una condición de entrada.
+#? ELSE => Y SI NO SE CUMPLE...------------
+# Se ejecutará siempre que NO se hayan cumplido las anteriores condiciones (if y elif).
 
 
 num1 = 50
