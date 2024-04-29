@@ -58,6 +58,7 @@ if cadena_ejemplo.startswith("L"):
   print("¡Empieza por L!")
 else:
   print("¡No empieza por L!")
+  
 
 
 # ENDSWITH (Se escribe la variable seguida de UN PUNTO y luego la palabra endswith)
